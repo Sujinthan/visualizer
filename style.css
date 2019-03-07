@@ -12,12 +12,19 @@ svg{
   padding: 0;
   margin: 0;
   position:fixed;
+<<<<<<< HEAD
   top: 0%;
   left: 0%;
   transform: translate(0, 0%);
   -webkit-transform: translate(0, 0%);
   -moz-transform: translate(0%, 0%);
   -ms-transform:translate(0, 0%);
+=======
+  top:0;
+  left:0;
+  bottom:0;
+  right:0;
+>>>>>>> c64ad6f554c06345691081a8414dc58a97dafc7c
 }
 
 #titleholder{
@@ -28,5 +35,9 @@ svg{
   color: white;
   top: 50%;
   left: 50%;
+<<<<<<< HEAD
   transform: translate(0%, -50%);
+=======
+  transform: translate(-50%, -50%);
+>>>>>>> c64ad6f554c06345691081a8414dc58a97dafc7c
 }
